@@ -32,6 +32,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YulyaSaroyan&theme=radical" height="180" />
 </p>
 
+[![ysaroyan's 42 stats](https://badge.mediaplus.ma/darkblue/ysaroyan)](https://github.com/YulyaSaroyan/badge42)
 
 ### 🤝 Connect with Me:
 
