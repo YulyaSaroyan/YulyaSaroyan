@@ -32,6 +32,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YulyaSaroyan&theme=radical" height="180" />
 </p>
 
+---
+
+### 📊 42 School:
+
 <p align="center">
   <a href="https://github.com/YulyaSaroyan/badge42">
     <img src="https://badge.mediaplus.ma/darkblue/ysaroyan" alt="ysaroyan's 42 stats" />
@@ -41,13 +45,10 @@
 ### 🤝 Connect with Me:
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://linkedin.com/in/yulyaa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" />
-  </a>
-  <a href="mailto:youremail@example.com" target="_blank">
+  <a href="mailto:yulyasaroyan20@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
