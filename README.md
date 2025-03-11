@@ -55,10 +55,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/YulyaSaroyan/YulyaSaroyan/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 ✨ _"Code, Create, and Conquer!"_ 🚀 
