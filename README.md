@@ -9,7 +9,7 @@
 
 ### 🌟 About Me:
 - 🏗 Passionate about building scalable & efficient applications
-- 🏆 **AWS Certified Developer – Associate**
+- 🏆 ** 3x AWS Certified**
 - 📚 Constantly learning & sharing tech knowledge
 - 💡 Exploring **Cloud Computing, Microservices, and DevOps**
 - 🎯 Expertise in NodeJs, NestJs, ExpressJS.
