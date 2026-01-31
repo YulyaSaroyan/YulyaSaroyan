@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | Cloud Enthusiast | Problem Solver 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00EFFF&center=true&width=450&lines=Full-Stack+Developer;AWS+Certified+Developer;Passionate+about+Tech+%26+Innovation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00EFFF&center=true&width=450&lines=Senior+Full-Stack+Engineer;3x+AWS+Certified;Passionate+about+Tech+%26+Innovation" />
 </p>
 
 ---
